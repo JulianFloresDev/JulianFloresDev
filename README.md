@@ -1,7 +1,4 @@
-### Hi there, This is Julian!
-
-<img height="100px" display="inline" src="https://avatars.githubusercontent.com/u/96196361?s=400&u=125e4768bc77044c06da5fd26360b981b4969ed7&v=4">
-<br>
+### Hi there, I'm Julian Flores, Software Developer in React.js!
 
 > Since 2020 I've been involved in programming and web development, I started to challenge myself and expose myself to new horizons not known because of my old vocation, Mathematics teacher; and I found that it is something I love, and I get a lot of satisfaction every day.
 >
